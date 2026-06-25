@@ -1203,8 +1203,8 @@
         },
         "CSDN": {
             "tags": [
-                "cn",
-                "blog"
+                "blog",
+                "cn"
             ],
             "checkType": "status_code",
             "urlMain": "https://blog.csdn.net",
@@ -27800,8 +27800,8 @@
         "Matters": {
             "tags": [
                 "blog",
-                "social",
                 "hk",
+                "social",
                 "tw"
             ],
             "checkType": "message",
@@ -27815,9 +27815,9 @@
         },
         "Pawoo": {
             "tags": [
+                "jp",
                 "mastodon",
-                "social",
-                "jp"
+                "social"
             ],
             "checkType": "status_code",
             "urlMain": "https://pawoo.net",
@@ -27827,8 +27827,8 @@
         },
         "Zenn": {
             "tags": [
-                "coding",
                 "blog",
+                "coding",
                 "jp"
             ],
             "checkType": "status_code",
@@ -27840,8 +27840,8 @@
         "Kompasiana": {
             "tags": [
                 "blog",
-                "news",
-                "id"
+                "id",
+                "news"
             ],
             "checkType": "status_code",
             "urlMain": "https://www.kompasiana.com",
