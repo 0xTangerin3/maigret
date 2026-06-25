@@ -620,6 +620,39 @@
                 "cn"
             ]
         },
+        "Baidu Tieba": {
+            "tags": [
+                "cn",
+                "forum"
+            ],
+            "checkType": "message",
+            "urlMain": "https://tieba.baidu.com",
+            "url": "https://tieba.baidu.com/home/main?un={username}",
+            "urlProbe": "https://tieba.baidu.com/home/get/panel?id=&un={username}",
+            "presenseStrs": [
+                "\"no\":0"
+            ],
+            "absenceStrs": [
+                "\"no\":1130025",
+                "\"no\":1130029"
+            ],
+            "usernameClaimed": "tieba",
+            "usernameUnclaimed": "noonewouldeverusethis7"
+        },
+        "Bilibili": {
+            "tags": [
+                "cn",
+                "video"
+            ],
+            "checkType": "message",
+            "urlMain": "https://www.bilibili.com",
+            "url": "https://space.bilibili.com/{username}",
+            "absenceStrs": [
+                "的个人空间-个人主页-哔哩哔哩视频"
+            ],
+            "usernameClaimed": "2",
+            "usernameUnclaimed": "9999999999999"
+        },
         "SoundCloud": {
             "tags": [
                 "music"
@@ -1167,6 +1200,17 @@
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
             }
+        },
+        "CSDN": {
+            "tags": [
+                "cn",
+                "blog"
+            ],
+            "checkType": "status_code",
+            "urlMain": "https://blog.csdn.net",
+            "url": "https://blog.csdn.net/{username}",
+            "usernameClaimed": "u014634338",
+            "usernameUnclaimed": "noonewouldeverusethis7"
         },
         "TripAdvisor": {
             "tags": [
@@ -3292,6 +3336,17 @@
             "urlMain": "https://gitee.com/",
             "url": "https://gitee.com/{username}",
             "usernameClaimed": "wizzer",
+            "usernameUnclaimed": "noonewouldeverusethis7"
+        },
+        "Gmarket": {
+            "tags": [
+                "kr",
+                "shopping"
+            ],
+            "checkType": "status_code",
+            "urlMain": "https://www.gmarket.co.kr",
+            "url": "https://minishop.gmarket.co.kr/{username}",
+            "usernameClaimed": "gmarket",
             "usernameUnclaimed": "noonewouldeverusethis7"
         },
         "ImageShack": {
@@ -27731,6 +27786,69 @@
             "usernameClaimed": "test",
             "usernameUnclaimed": "noonewouldeverusethis7"
         },
+        "Peing": {
+            "tags": [
+                "jp",
+                "social"
+            ],
+            "checkType": "status_code",
+            "urlMain": "https://peing.net",
+            "url": "https://peing.net/{username}",
+            "usernameClaimed": "peing_net",
+            "usernameUnclaimed": "noonewouldeverusethis7"
+        },
+        "Matters": {
+            "tags": [
+                "blog",
+                "social",
+                "hk",
+                "tw"
+            ],
+            "checkType": "message",
+            "presenseStrs": [
+                " - Matters</title>"
+            ],
+            "urlMain": "https://matters.news",
+            "url": "https://matters.news/@{username}",
+            "usernameClaimed": "likecoin",
+            "usernameUnclaimed": "noonewouldeverusethis7"
+        },
+        "Pawoo": {
+            "tags": [
+                "mastodon",
+                "social",
+                "jp"
+            ],
+            "checkType": "status_code",
+            "urlMain": "https://pawoo.net",
+            "url": "https://pawoo.net/@{username}",
+            "usernameClaimed": "pawoo",
+            "usernameUnclaimed": "noonewouldeverusethis7"
+        },
+        "Zenn": {
+            "tags": [
+                "coding",
+                "blog",
+                "jp"
+            ],
+            "checkType": "status_code",
+            "urlMain": "https://zenn.dev",
+            "url": "https://zenn.dev/{username}",
+            "usernameClaimed": "zenn",
+            "usernameUnclaimed": "noonewouldeverusethis7"
+        },
+        "Kompasiana": {
+            "tags": [
+                "blog",
+                "news",
+                "id"
+            ],
+            "checkType": "status_code",
+            "urlMain": "https://www.kompasiana.com",
+            "url": "https://www.kompasiana.com/{username}",
+            "usernameClaimed": "kompasiana",
+            "usernameUnclaimed": "noonewouldeverusethis7"
+        },
         "Piekielni": {
             "checkType": "message",
             "absenceStrs": [
@@ -34289,10 +34407,22 @@
             "url": "https://users.rust-lang.org/u/{username}"
         },
         "v2ex.com": {
-            "checkType": "status_code",
-            "usernameClaimed": "adam",
-            "usernameUnclaimed": "noonewouldeverusethis7",
-            "url": "https://v2ex.com/member/{username}"
+            "tags": [
+                "cn",
+                "forum"
+            ],
+            "checkType": "message",
+            "urlMain": "https://www.v2ex.com",
+            "url": "https://www.v2ex.com/member/{username}",
+            "urlProbe": "https://www.v2ex.com/api/members/show.json?username={username}",
+            "presenseStrs": [
+                "\"username\":"
+            ],
+            "absenceStrs": [
+                "Object Not Found"
+            ],
+            "usernameClaimed": "Livid",
+            "usernameUnclaimed": "noonewouldeverusethis7"
         },
         "vidamora.com": {
             "checkType": "status_code",
