@@ -27866,8 +27866,8 @@
         "Brunch": {
             "tags": [
                 "blog",
-                "writing",
-                "kr"
+                "kr",
+                "writing"
             ],
             "checkType": "message",
             "absenceStrs": [
@@ -27880,8 +27880,8 @@
         },
         "Tabelog": {
             "tags": [
-                "review",
-                "jp"
+                "jp",
+                "review"
             ],
             "checkType": "status_code",
             "urlMain": "https://tabelog.com",
@@ -27929,8 +27929,8 @@
         },
         "Bahamut": {
             "tags": [
-                "gaming",
                 "forum",
+                "gaming",
                 "tw"
             ],
             "checkType": "message",
@@ -27944,9 +27944,9 @@
         },
         "Bigo Live": {
             "tags": [
+                "social",
                 "streaming",
-                "video",
-                "social"
+                "video"
             ],
             "checkType": "message",
             "presenseStrs": [
@@ -27955,6 +27955,20 @@
             "urlMain": "https://www.bigo.tv",
             "url": "https://www.bigo.tv/user/{username}",
             "usernameClaimed": "bigolive",
+            "usernameUnclaimed": "noonewouldeverusethis7"
+        },
+        "Baby-Kingdom": {
+            "tags": [
+                "forum",
+                "hk"
+            ],
+            "checkType": "message",
+            "presenseStrs": [
+                "的個人資料"
+            ],
+            "urlMain": "https://www.baby-kingdom.com",
+            "url": "https://www.baby-kingdom.com/home.php?mod=space&username={username}",
+            "usernameClaimed": "momoballs",
             "usernameUnclaimed": "noonewouldeverusethis7"
         },
         "Piekielni": {

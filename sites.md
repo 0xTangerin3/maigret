@@ -1,5 +1,5 @@
 
-## List of supported sites (search methods): total 3183
+## List of supported sites (search methods): total 3184
 
 Rank data fetched from Majestic Million by domains.
 
@@ -2319,6 +2319,7 @@ Rank data fetched from Majestic Million by domains.
 1. ![](https://www.google.com/s2/favicons?domain=https://www.pixnet.net) [Pixnet (https://www.pixnet.net)](https://www.pixnet.net)*: top 100M, blog, photo, tw*
 1. ![](https://www.google.com/s2/favicons?domain=https://www.gamer.com.tw) [Bahamut (https://www.gamer.com.tw)](https://www.gamer.com.tw)*: top 100M, forum, gaming, tw*
 1. ![](https://www.google.com/s2/favicons?domain=https://www.bigo.tv) [Bigo Live (https://www.bigo.tv)](https://www.bigo.tv)*: top 100M, social, streaming, video*
+1. ![](https://www.google.com/s2/favicons?domain=https://www.baby-kingdom.com) [Baby-Kingdom (https://www.baby-kingdom.com)](https://www.baby-kingdom.com)*: top 100M, forum, hk*
 1. ![](https://www.google.com/s2/favicons?domain=) [Piekielni ()]()*: top 100M*
 1. ![](https://www.google.com/s2/favicons?domain=https://pilguy.com) [Pilguy (https://pilguy.com)](https://pilguy.com)*: top 100M, forum, ru*, search is disabled
 1. ![](https://www.google.com/s2/favicons?domain=https://piratebuhta.club) [Piratebuhta (https://piratebuhta.club)](https://piratebuhta.club)*: top 100M, forum, ru*
@@ -3190,13 +3191,13 @@ Rank data fetched from Majestic Million by domains.
 The list was updated at (2026-06-26)
 ## Statistics
 
-Enabled/total sites: 2539/3183 = 79.77%
+Enabled/total sites: 2540/3184 = 79.77%
 
-Incomplete message checks: 315/2539 = 12.41% (false positive risks)
+Incomplete message checks: 316/2540 = 12.44% (false positive risks)
 
-Status code checks: 641/2539 = 25.25% (false positive risks)
+Status code checks: 641/2540 = 25.24% (false positive risks)
 
-False positive risk (total): 37.66%
+False positive risk (total): 37.68%
 
 Sites with probing: 500px, Armchairgm, Baidu Tieba, BinarySearch (disabled), BleachFandom, Bluesky, BongaCams, Boosty, BuyMeACoffee, Calendly, Cent, Chess, Code Sandbox (disabled), Code Snippet Wiki, DailyMotion, Discord, Diskusjon.no, Disqus, Docker Hub, Duolingo, Faceit, FandomCommunityCentral, GitHub, GitLab, Google Plus (archived), Gravatar, HackTheBox, Hackerrank, Hashnode, Hey, Holopin, Imgur, Instagram, Issuu, Keybase, Kick, Kvinneguiden, LeetCode, Lesswrong, Livejasmin, LocalCryptos (disabled), Matrix, Medium, MicrosoftLearn, MixCloud, Monkeytype, NPM, Niftygateway, ORCID, Omg.lol, OnlyFans, Paragraph, Picsart, Plurk, Polarsteps, Rarible, Reddit, Reddit Search (Pushshift) (disabled), Revolut.me, RoyalCams, Scratch, Soop, SportsTracker, Spotify, StackOverflow, Substack, TAP'D, Topcoder, Trello, Twitch, Twitter, Twitter Shadowban (disabled), UnstoppableDomains, Vimeo, Vivino, Warframe Market, Warpcast, Weibo, Wikipedia, Yapisal (disabled), YouNow, en.brickimedia.org, forums.grandstream.com, iNaturalist, nightbot, notabug.org, qiwi.me (disabled), v2ex.com
 
@@ -3243,7 +3244,7 @@ Sites by engine:
 
 Top 20 tags:
 - (1058)	`NO_TAGS` (non-standard)
-- (754)	`forum`
+- (755)	`forum`
 - (131)	`gaming`
 - (89)	`coding`
 - (58)	`photo`
