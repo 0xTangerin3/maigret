@@ -27849,6 +27849,114 @@
             "usernameClaimed": "kompasiana",
             "usernameUnclaimed": "noonewouldeverusethis7"
         },
+        "Lowyat.NET": {
+            "tags": [
+                "forum",
+                "my"
+            ],
+            "checkType": "message",
+            "presenseStrs": [
+                "Viewing Profile"
+            ],
+            "urlMain": "https://forum.lowyat.net",
+            "url": "https://forum.lowyat.net/user/{username}",
+            "usernameClaimed": "Philippng",
+            "usernameUnclaimed": "noonewouldeverusethis7"
+        },
+        "Brunch": {
+            "tags": [
+                "blog",
+                "writing",
+                "kr"
+            ],
+            "checkType": "message",
+            "absenceStrs": [
+                "<title>브런치</title>"
+            ],
+            "urlMain": "https://brunch.co.kr",
+            "url": "https://brunch.co.kr/@{username}",
+            "usernameClaimed": "miyoung-writer",
+            "usernameUnclaimed": "noonewouldeverusethis7"
+        },
+        "Tabelog": {
+            "tags": [
+                "review",
+                "jp"
+            ],
+            "checkType": "status_code",
+            "urlMain": "https://tabelog.com",
+            "url": "https://tabelog.com/rvwr/{username}/prof/",
+            "usernameClaimed": "tuviastra",
+            "usernameUnclaimed": "noonewouldeverusethis7"
+        },
+        "Blockdit": {
+            "tags": [
+                "blog",
+                "social",
+                "th"
+            ],
+            "checkType": "status_code",
+            "urlMain": "https://www.blockdit.com",
+            "url": "https://www.blockdit.com/{username}",
+            "usernameClaimed": "guzemarkets",
+            "usernameUnclaimed": "noonewouldeverusethis7"
+        },
+        "Naver Blog": {
+            "tags": [
+                "blog",
+                "kr"
+            ],
+            "checkType": "status_code",
+            "urlMain": "https://blog.naver.com",
+            "url": "https://blog.naver.com/{username}",
+            "usernameClaimed": "punchkorea",
+            "usernameUnclaimed": "noonewouldeverusethis7"
+        },
+        "Pixnet": {
+            "tags": [
+                "blog",
+                "photo",
+                "tw"
+            ],
+            "checkType": "message",
+            "presenseStrs": [
+                "PIXNET"
+            ],
+            "urlMain": "https://www.pixnet.net",
+            "url": "https://{username}.pixnet.net/blog",
+            "usernameClaimed": "lovelytaiwan",
+            "usernameUnclaimed": "noonewouldeverusethis7"
+        },
+        "Bahamut": {
+            "tags": [
+                "gaming",
+                "forum",
+                "tw"
+            ],
+            "checkType": "message",
+            "absenceStrs": [
+                "會員登入"
+            ],
+            "urlMain": "https://www.gamer.com.tw",
+            "url": "https://home.gamer.com.tw/homeindex.php?owner={username}",
+            "usernameClaimed": "kiyani",
+            "usernameUnclaimed": "noonewouldeverusethis7"
+        },
+        "Bigo Live": {
+            "tags": [
+                "streaming",
+                "video",
+                "social"
+            ],
+            "checkType": "message",
+            "presenseStrs": [
+                "(BIGO ID:"
+            ],
+            "urlMain": "https://www.bigo.tv",
+            "url": "https://www.bigo.tv/user/{username}",
+            "usernameClaimed": "bigolive",
+            "usernameUnclaimed": "noonewouldeverusethis7"
+        },
         "Piekielni": {
             "checkType": "message",
             "absenceStrs": [
