@@ -27957,6 +27957,20 @@
             "usernameClaimed": "bigolive",
             "usernameUnclaimed": "noonewouldeverusethis7"
         },
+        "PropertyGuru": {
+            "tags": [
+                "review",
+                "sg"
+            ],
+            "protection": [
+                "cloudflare"
+            ],
+            "checkType": "status_code",
+            "urlMain": "https://www.propertyguru.com.sg",
+            "url": "https://www.propertyguru.com.sg/agent/{username}",
+            "usernameClaimed": "geryl-lim-120344",
+            "usernameUnclaimed": "noonewouldeverusethis7"
+        },
         "Baby-Kingdom": {
             "tags": [
                 "forum",

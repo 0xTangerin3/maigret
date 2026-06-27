@@ -1,5 +1,5 @@
 
-## List of supported sites (search methods): total 3184
+## List of supported sites (search methods): total 3185
 
 Rank data fetched from Majestic Million by domains.
 
@@ -2319,6 +2319,7 @@ Rank data fetched from Majestic Million by domains.
 1. ![](https://www.google.com/s2/favicons?domain=https://www.pixnet.net) [Pixnet (https://www.pixnet.net)](https://www.pixnet.net)*: top 100M, blog, photo, tw*
 1. ![](https://www.google.com/s2/favicons?domain=https://www.gamer.com.tw) [Bahamut (https://www.gamer.com.tw)](https://www.gamer.com.tw)*: top 100M, forum, gaming, tw*
 1. ![](https://www.google.com/s2/favicons?domain=https://www.bigo.tv) [Bigo Live (https://www.bigo.tv)](https://www.bigo.tv)*: top 100M, social, streaming, video*
+1. ![](https://www.google.com/s2/favicons?domain=https://www.propertyguru.com.sg) [PropertyGuru (https://www.propertyguru.com.sg)](https://www.propertyguru.com.sg)*: top 100M, review, sg*
 1. ![](https://www.google.com/s2/favicons?domain=https://www.baby-kingdom.com) [Baby-Kingdom (https://www.baby-kingdom.com)](https://www.baby-kingdom.com)*: top 100M, forum, hk*
 1. ![](https://www.google.com/s2/favicons?domain=) [Piekielni ()]()*: top 100M*
 1. ![](https://www.google.com/s2/favicons?domain=https://pilguy.com) [Pilguy (https://pilguy.com)](https://pilguy.com)*: top 100M, forum, ru*, search is disabled
@@ -3188,16 +3189,16 @@ Rank data fetched from Majestic Million by domains.
 1. ![](https://www.google.com/s2/favicons?domain=https://dblp.org) [DBLP (https://dblp.org)](https://dblp.org)*: top 100M, coding, global, science*
 1. ![](https://www.google.com/s2/favicons?domain=https://scholia.toolforge.org) [Scholia (https://scholia.toolforge.org)](https://scholia.toolforge.org)*: top 100M, global, science*
 
-The list was updated at (2026-06-26)
+The list was updated at (2026-06-27)
 ## Statistics
 
-Enabled/total sites: 2540/3184 = 79.77%
+Enabled/total sites: 2541/3185 = 79.78%
 
-Incomplete message checks: 316/2540 = 12.44% (false positive risks)
+Incomplete message checks: 316/2541 = 12.44% (false positive risks)
 
-Status code checks: 641/2540 = 25.24% (false positive risks)
+Status code checks: 642/2541 = 25.27% (false positive risks)
 
-False positive risk (total): 37.68%
+False positive risk (total): 37.71%
 
 Sites with probing: 500px, Armchairgm, Baidu Tieba, BinarySearch (disabled), BleachFandom, Bluesky, BongaCams, Boosty, BuyMeACoffee, Calendly, Cent, Chess, Code Sandbox (disabled), Code Snippet Wiki, DailyMotion, Discord, Diskusjon.no, Disqus, Docker Hub, Duolingo, Faceit, FandomCommunityCentral, GitHub, GitLab, Google Plus (archived), Gravatar, HackTheBox, Hackerrank, Hashnode, Hey, Holopin, Imgur, Instagram, Issuu, Keybase, Kick, Kvinneguiden, LeetCode, Lesswrong, Livejasmin, LocalCryptos (disabled), Matrix, Medium, MicrosoftLearn, MixCloud, Monkeytype, NPM, Niftygateway, ORCID, Omg.lol, OnlyFans, Paragraph, Picsart, Plurk, Polarsteps, Rarible, Reddit, Reddit Search (Pushshift) (disabled), Revolut.me, RoyalCams, Scratch, Soop, SportsTracker, Spotify, StackOverflow, Substack, TAP'D, Topcoder, Trello, Twitch, Twitter, Twitter Shadowban (disabled), UnstoppableDomains, Vimeo, Vivino, Warframe Market, Warpcast, Weibo, Wikipedia, Yapisal (disabled), YouNow, en.brickimedia.org, forums.grandstream.com, iNaturalist, nightbot, notabug.org, qiwi.me (disabled), v2ex.com
 
