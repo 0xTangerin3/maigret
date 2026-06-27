@@ -644,6 +644,7 @@
                 "cn",
                 "video"
             ],
+            "regexCheck": "^\\d+$",
             "checkType": "message",
             "urlMain": "https://www.bilibili.com",
             "url": "https://space.bilibili.com/{username}",
