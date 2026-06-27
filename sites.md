@@ -1,5 +1,5 @@
 
-## List of supported sites (search methods): total 3201
+## List of supported sites (search methods): total 3202
 
 Rank data fetched from Majestic Million by domains.
 
@@ -3204,17 +3204,18 @@ Rank data fetched from Majestic Million by domains.
 1. ![](https://www.google.com/s2/favicons?domain=https://scholia.toolforge.org) [Scholia (https://scholia.toolforge.org)](https://scholia.toolforge.org)*: top 100M, global, science*
 1. ![](https://www.google.com/s2/favicons?domain=https://www.adam4adam.com/) [Adam4Adam (https://www.adam4adam.com/)](https://www.adam4adam.com/)*: top 100M, dating*
 1. ![](https://www.google.com/s2/favicons?domain=https://www.collarspace.com/) [Collarspace (https://www.collarspace.com/)](https://www.collarspace.com/)*: top 100M, dating, erotic*
+1. ![](https://www.google.com/s2/favicons?domain=https://www.camsoda.com/) [CamSoda (https://www.camsoda.com/)](https://www.camsoda.com/)*: top 100M, porn, webcam*
 
 The list was updated at (2026-06-27)
 ## Statistics
 
-Enabled/total sites: 2557/3201 = 79.88%
+Enabled/total sites: 2558/3202 = 79.89%
 
-Incomplete message checks: 325/2557 = 12.71% (false positive risks)
+Incomplete message checks: 325/2558 = 12.71% (false positive risks)
 
-Status code checks: 648/2557 = 25.34% (false positive risks)
+Status code checks: 649/2558 = 25.37% (false positive risks)
 
-False positive risk (total): 38.05%
+False positive risk (total): 38.08%
 
 Sites with probing: 500px, Armchairgm, Baidu Tieba, BinarySearch (disabled), BleachFandom, Bluesky, BongaCams, Boosty, BuyMeACoffee, Calendly, Cent, Chess, Code Sandbox (disabled), Code Snippet Wiki, DailyMotion, Discord, Diskusjon.no, Disqus, Docker Hub, Duolingo, Faceit, FandomCommunityCentral, GitHub, GitLab, Google Plus (archived), Gravatar, HackTheBox, Hackerrank, Hashnode, Hey, Holopin, Imgur, Instagram, Issuu, Juejin, Keybase, Kick, Kvinneguiden, LeetCode, Lesswrong, Livejasmin, LocalCryptos (disabled), Matrix, Medium, MicrosoftLearn, MixCloud, Monkeytype, NPM, Niftygateway, ORCID, Omg.lol, OnlyFans, Paragraph, Picsart, Plurk, Polarsteps, Rarible, Reddit, Reddit Search (Pushshift) (disabled), Revolut.me, RoyalCams, Scratch, Soop, SportsTracker, Spotify, StackOverflow, Substack, TAP'D, Topcoder, Trello, Twitch, Twitter, Twitter Shadowban (disabled), UnstoppableDomains, Vimeo, Vivino, Warframe Market, Warpcast, Weibo, Wikipedia, Yapisal (disabled), YouNow, en.brickimedia.org, forums.grandstream.com, iNaturalist, nightbot, notabug.org, qiwi.me (disabled), v2ex.com
 
@@ -3222,7 +3223,7 @@ Sites with activation: OnlyFans, Twitter, Vimeo, Weibo
 
 Top 20 profile URLs:
 - (709)	`{urlMain}/index/8-0-{username} (uCoz)`
-- (325)	`/{username}`
+- (326)	`/{username}`
 - (223)	`{urlMain}{urlSubpath}/members/?username={username} (XenForo)`
 - (173)	`/user/{username}`
 - (141)	`/profile/{username}`
@@ -3279,4 +3280,4 @@ Top 20 tags:
 - (22)	`freelance`
 - (21)	`art`
 - (18)	`hobby`
-- (17)	`sport`
+- (18)	`porn`

@@ -36650,6 +36650,20 @@
                 "dating",
                 "erotic"
             ]
+        },
+        "CamSoda": {
+            "checkType": "status_code",
+            "protection": [
+                "tls_fingerprint"
+            ],
+            "urlMain": "https://www.camsoda.com/",
+            "url": "https://www.camsoda.com/{username}",
+            "usernameClaimed": "camsoda",
+            "usernameUnclaimed": "noonewouldeverusethis7",
+            "tags": [
+                "porn",
+                "webcam"
+            ]
         }
     },
     "engines": {
