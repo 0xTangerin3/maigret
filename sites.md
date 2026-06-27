@@ -1,5 +1,5 @@
 
-## List of supported sites (search methods): total 3199
+## List of supported sites (search methods): total 3201
 
 Rank data fetched from Majestic Million by domains.
 
@@ -3202,17 +3202,19 @@ Rank data fetched from Majestic Million by domains.
 1. ![](https://www.google.com/s2/favicons?domain=https://arxiv.org) [arXiv (https://arxiv.org)](https://arxiv.org)*: top 100M, global, science*
 1. ![](https://www.google.com/s2/favicons?domain=https://dblp.org) [DBLP (https://dblp.org)](https://dblp.org)*: top 100M, coding, global, science*
 1. ![](https://www.google.com/s2/favicons?domain=https://scholia.toolforge.org) [Scholia (https://scholia.toolforge.org)](https://scholia.toolforge.org)*: top 100M, global, science*
+1. ![](https://www.google.com/s2/favicons?domain=https://www.adam4adam.com/) [Adam4Adam (https://www.adam4adam.com/)](https://www.adam4adam.com/)*: top 100M, dating*
+1. ![](https://www.google.com/s2/favicons?domain=https://www.collarspace.com/) [Collarspace (https://www.collarspace.com/)](https://www.collarspace.com/)*: top 100M, dating, erotic*
 
 The list was updated at (2026-06-27)
 ## Statistics
 
-Enabled/total sites: 2555/3199 = 79.87%
+Enabled/total sites: 2557/3201 = 79.88%
 
-Incomplete message checks: 324/2555 = 12.68% (false positive risks)
+Incomplete message checks: 325/2557 = 12.71% (false positive risks)
 
-Status code checks: 647/2555 = 25.32% (false positive risks)
+Status code checks: 648/2557 = 25.34% (false positive risks)
 
-False positive risk (total): 38.00%
+False positive risk (total): 38.05%
 
 Sites with probing: 500px, Armchairgm, Baidu Tieba, BinarySearch (disabled), BleachFandom, Bluesky, BongaCams, Boosty, BuyMeACoffee, Calendly, Cent, Chess, Code Sandbox (disabled), Code Snippet Wiki, DailyMotion, Discord, Diskusjon.no, Disqus, Docker Hub, Duolingo, Faceit, FandomCommunityCentral, GitHub, GitLab, Google Plus (archived), Gravatar, HackTheBox, Hackerrank, Hashnode, Hey, Holopin, Imgur, Instagram, Issuu, Juejin, Keybase, Kick, Kvinneguiden, LeetCode, Lesswrong, Livejasmin, LocalCryptos (disabled), Matrix, Medium, MicrosoftLearn, MixCloud, Monkeytype, NPM, Niftygateway, ORCID, Omg.lol, OnlyFans, Paragraph, Picsart, Plurk, Polarsteps, Rarible, Reddit, Reddit Search (Pushshift) (disabled), Revolut.me, RoyalCams, Scratch, Soop, SportsTracker, Spotify, StackOverflow, Substack, TAP'D, Topcoder, Trello, Twitch, Twitter, Twitter Shadowban (disabled), UnstoppableDomains, Vimeo, Vivino, Warframe Market, Warpcast, Weibo, Wikipedia, Yapisal (disabled), YouNow, en.brickimedia.org, forums.grandstream.com, iNaturalist, nightbot, notabug.org, qiwi.me (disabled), v2ex.com
 

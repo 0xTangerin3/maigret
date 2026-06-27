@@ -36626,6 +36626,30 @@
                 "global",
                 "science"
             ]
+        },
+        "Adam4Adam": {
+            "checkType": "status_code",
+            "urlMain": "https://www.adam4adam.com/",
+            "url": "https://www.adam4adam.com/profile/view/{username}",
+            "usernameClaimed": "adam4adam",
+            "usernameUnclaimed": "noonewouldeverusethis7",
+            "tags": [
+                "dating"
+            ]
+        },
+        "Collarspace": {
+            "checkType": "message",
+            "absenceStrs": [
+                "Profile Not Found"
+            ],
+            "urlMain": "https://www.collarspace.com/",
+            "url": "https://www.collarspace.com/profiles/{username}",
+            "usernameClaimed": "collarspace",
+            "usernameUnclaimed": "noonewouldeverusethis7",
+            "tags": [
+                "dating",
+                "erotic"
+            ]
         }
     },
     "engines": {
