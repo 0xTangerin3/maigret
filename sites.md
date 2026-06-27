@@ -1,5 +1,5 @@
 
-## List of supported sites (search methods): total 3185
+## List of supported sites (search methods): total 3199
 
 Rank data fetched from Majestic Million by domains.
 
@@ -2321,6 +2321,20 @@ Rank data fetched from Majestic Million by domains.
 1. ![](https://www.google.com/s2/favicons?domain=https://www.bigo.tv) [Bigo Live (https://www.bigo.tv)](https://www.bigo.tv)*: top 100M, social, streaming, video*
 1. ![](https://www.google.com/s2/favicons?domain=https://www.propertyguru.com.sg) [PropertyGuru (https://www.propertyguru.com.sg)](https://www.propertyguru.com.sg)*: top 100M, review, sg*
 1. ![](https://www.google.com/s2/favicons?domain=https://www.baby-kingdom.com) [Baby-Kingdom (https://www.baby-kingdom.com)](https://www.baby-kingdom.com)*: top 100M, forum, hk*
+1. ![](https://www.google.com/s2/favicons?domain=https://www.inven.co.kr) [Inven (https://www.inven.co.kr)](https://www.inven.co.kr)*: top 100M, gaming, kr*
+1. ![](https://www.google.com/s2/favicons?domain=https://www.webtoons.com) [WEBTOON (https://www.webtoons.com)](https://www.webtoons.com)*: top 100M, global, reading*
+1. ![](https://www.google.com/s2/favicons?domain=https://misskey.io) [Misskey (https://misskey.io)](https://misskey.io)*: top 100M, jp, social*
+1. ![](https://www.google.com/s2/favicons?domain=https://lit.link) [lit.link (https://lit.link)](https://lit.link)*: top 100M, jp, links*
+1. ![](https://www.google.com/s2/favicons?domain=https://qiita.com) [Qiita (https://qiita.com)](https://qiita.com)*: top 100M, coding, jp*
+1. ![](https://www.google.com/s2/favicons?domain=https://juejin.cn) [Juejin (https://juejin.cn)](https://juejin.cn)*: top 100M, cn, coding*
+1. ![](https://www.google.com/s2/favicons?domain=https://www.lofter.com) [Lofter (https://www.lofter.com)](https://www.lofter.com)*: top 100M, blog, cn*
+1. ![](https://www.google.com/s2/favicons?domain=https://www.rednote.com) [RED (https://www.rednote.com)](https://www.rednote.com)*: top 100M, cn, photo, social*
+1. ![](https://www.google.com/s2/favicons?domain=https://pantip.com) [Pantip (https://pantip.com)](https://pantip.com)*: top 100M, forum, th*
+1. ![](https://www.google.com/s2/favicons?domain=https://www.wongnai.com) [Wongnai (https://www.wongnai.com)](https://www.wongnai.com)*: top 100M, review, th*
+1. ![](https://www.google.com/s2/favicons?domain=https://www.dek-d.com) [Dek-D (https://www.dek-d.com)](https://www.dek-d.com)*: top 100M, th, writing*
+1. ![](https://www.google.com/s2/favicons?domain=https://cari.com.my) [Cari.com.my (https://cari.com.my)](https://cari.com.my)*: top 100M, forum, my*
+1. ![](https://www.google.com/s2/favicons?domain=https://kumu.live) [Kumu (https://kumu.live)](https://kumu.live)*: top 100M, ph, streaming*
+1. ![](https://www.google.com/s2/favicons?domain=https://www.readawrite.com) [readAwrite (https://www.readawrite.com)](https://www.readawrite.com)*: top 100M, blog, th*
 1. ![](https://www.google.com/s2/favicons?domain=) [Piekielni ()]()*: top 100M*
 1. ![](https://www.google.com/s2/favicons?domain=https://pilguy.com) [Pilguy (https://pilguy.com)](https://pilguy.com)*: top 100M, forum, ru*, search is disabled
 1. ![](https://www.google.com/s2/favicons?domain=https://piratebuhta.club) [Piratebuhta (https://piratebuhta.club)](https://piratebuhta.club)*: top 100M, forum, ru*
@@ -3192,32 +3206,32 @@ Rank data fetched from Majestic Million by domains.
 The list was updated at (2026-06-27)
 ## Statistics
 
-Enabled/total sites: 2541/3185 = 79.78%
+Enabled/total sites: 2555/3199 = 79.87%
 
-Incomplete message checks: 316/2541 = 12.44% (false positive risks)
+Incomplete message checks: 324/2555 = 12.68% (false positive risks)
 
-Status code checks: 642/2541 = 25.27% (false positive risks)
+Status code checks: 647/2555 = 25.32% (false positive risks)
 
-False positive risk (total): 37.71%
+False positive risk (total): 38.00%
 
-Sites with probing: 500px, Armchairgm, Baidu Tieba, BinarySearch (disabled), BleachFandom, Bluesky, BongaCams, Boosty, BuyMeACoffee, Calendly, Cent, Chess, Code Sandbox (disabled), Code Snippet Wiki, DailyMotion, Discord, Diskusjon.no, Disqus, Docker Hub, Duolingo, Faceit, FandomCommunityCentral, GitHub, GitLab, Google Plus (archived), Gravatar, HackTheBox, Hackerrank, Hashnode, Hey, Holopin, Imgur, Instagram, Issuu, Keybase, Kick, Kvinneguiden, LeetCode, Lesswrong, Livejasmin, LocalCryptos (disabled), Matrix, Medium, MicrosoftLearn, MixCloud, Monkeytype, NPM, Niftygateway, ORCID, Omg.lol, OnlyFans, Paragraph, Picsart, Plurk, Polarsteps, Rarible, Reddit, Reddit Search (Pushshift) (disabled), Revolut.me, RoyalCams, Scratch, Soop, SportsTracker, Spotify, StackOverflow, Substack, TAP'D, Topcoder, Trello, Twitch, Twitter, Twitter Shadowban (disabled), UnstoppableDomains, Vimeo, Vivino, Warframe Market, Warpcast, Weibo, Wikipedia, Yapisal (disabled), YouNow, en.brickimedia.org, forums.grandstream.com, iNaturalist, nightbot, notabug.org, qiwi.me (disabled), v2ex.com
+Sites with probing: 500px, Armchairgm, Baidu Tieba, BinarySearch (disabled), BleachFandom, Bluesky, BongaCams, Boosty, BuyMeACoffee, Calendly, Cent, Chess, Code Sandbox (disabled), Code Snippet Wiki, DailyMotion, Discord, Diskusjon.no, Disqus, Docker Hub, Duolingo, Faceit, FandomCommunityCentral, GitHub, GitLab, Google Plus (archived), Gravatar, HackTheBox, Hackerrank, Hashnode, Hey, Holopin, Imgur, Instagram, Issuu, Juejin, Keybase, Kick, Kvinneguiden, LeetCode, Lesswrong, Livejasmin, LocalCryptos (disabled), Matrix, Medium, MicrosoftLearn, MixCloud, Monkeytype, NPM, Niftygateway, ORCID, Omg.lol, OnlyFans, Paragraph, Picsart, Plurk, Polarsteps, Rarible, Reddit, Reddit Search (Pushshift) (disabled), Revolut.me, RoyalCams, Scratch, Soop, SportsTracker, Spotify, StackOverflow, Substack, TAP'D, Topcoder, Trello, Twitch, Twitter, Twitter Shadowban (disabled), UnstoppableDomains, Vimeo, Vivino, Warframe Market, Warpcast, Weibo, Wikipedia, Yapisal (disabled), YouNow, en.brickimedia.org, forums.grandstream.com, iNaturalist, nightbot, notabug.org, qiwi.me (disabled), v2ex.com
 
 Sites with activation: OnlyFans, Twitter, Vimeo, Weibo
 
 Top 20 profile URLs:
 - (709)	`{urlMain}/index/8-0-{username} (uCoz)`
-- (322)	`/{username}`
+- (325)	`/{username}`
 - (223)	`{urlMain}{urlSubpath}/members/?username={username} (XenForo)`
-- (172)	`/user/{username}`
-- (140)	`/profile/{username}`
+- (173)	`/user/{username}`
+- (141)	`/profile/{username}`
 - (127)	`{urlMain}{urlSubpath}/search.php?author={username} (phpBB/Search)`
 - (120)	`{urlMain}{urlSubpath}/member.php?username={username} (vBulletin)`
 - (118)	`/u/{username}`
-- (95)	`/users/{username}`
+- (96)	`/users/{username}`
 - (93)	`{urlMain}/u/{username}/summary (Discourse)`
-- (71)	`/@{username}`
+- (72)	`/@{username}`
 - (55)	`/wiki/User:{username}`
-- (46)	`SUBDOMAIN`
+- (48)	`SUBDOMAIN`
 - (38)	`/members/?username={username}`
 - (32)	`/author/{username}`
 - (30)	`/members/{username}`
@@ -3245,13 +3259,13 @@ Sites by engine:
 
 Top 20 tags:
 - (1058)	`NO_TAGS` (non-standard)
-- (755)	`forum`
-- (131)	`gaming`
-- (89)	`coding`
-- (58)	`photo`
-- (52)	`social`
+- (757)	`forum`
+- (132)	`gaming`
+- (91)	`coding`
+- (59)	`photo`
+- (54)	`social`
+- (49)	`blog`
 - (47)	`tech`
-- (47)	`blog`
 - (44)	`news`
 - (33)	`music`
 - (32)	`shopping`

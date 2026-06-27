@@ -27985,6 +27985,190 @@
             "usernameClaimed": "momoballs",
             "usernameUnclaimed": "noonewouldeverusethis7"
         },
+        "Inven": {
+            "tags": [
+                "gaming",
+                "kr"
+            ],
+            "checkType": "message",
+            "presenseStrs": [
+                "INVENSKIN"
+            ],
+            "urlMain": "https://www.inven.co.kr",
+            "url": "https://www.inven.co.kr/member/inventory/view_inventory.php?nick={username}",
+            "usernameClaimed": "scorpio",
+            "usernameUnclaimed": "noonewouldeverusethis7"
+        },
+        "WEBTOON": {
+            "tags": [
+                "global",
+                "reading"
+            ],
+            "checkType": "status_code",
+            "urlMain": "https://www.webtoons.com",
+            "url": "https://www.webtoons.com/p/community/en/u/{username}",
+            "usernameClaimed": "instantmiso",
+            "usernameUnclaimed": "noonewouldeverusethis7"
+        },
+        "Misskey": {
+            "tags": [
+                "jp",
+                "social"
+            ],
+            "checkType": "message",
+            "absenceStrs": [
+                "<title>Misskey.io</title>"
+            ],
+            "urlMain": "https://misskey.io",
+            "url": "https://misskey.io/@{username}",
+            "usernameClaimed": "syuilo",
+            "usernameUnclaimed": "noonewouldeverusethis7"
+        },
+        "lit.link": {
+            "tags": [
+                "jp",
+                "links"
+            ],
+            "checkType": "message",
+            "absenceStrs": [
+                "Not Found lit.link"
+            ],
+            "urlMain": "https://lit.link",
+            "url": "https://lit.link/{username}",
+            "usernameClaimed": "kppepknc",
+            "usernameUnclaimed": "noonewouldeverusethis7"
+        },
+        "Qiita": {
+            "tags": [
+                "coding",
+                "jp"
+            ],
+            "checkType": "status_code",
+            "urlMain": "https://qiita.com",
+            "url": "https://qiita.com/{username}",
+            "usernameClaimed": "qiita",
+            "usernameUnclaimed": "noonewouldeverusethis7"
+        },
+        "Juejin": {
+            "tags": [
+                "cn",
+                "coding"
+            ],
+            "regexCheck": "^\\d{15,19}$",
+            "checkType": "message",
+            "urlMain": "https://juejin.cn",
+            "url": "https://juejin.cn/user/{username}",
+            "urlProbe": "https://api.juejin.cn/user_api/v1/user/get?user_id={username}",
+            "absenceStrs": [
+                "\"user_id\":\"0\""
+            ],
+            "usernameClaimed": "1556564194374926",
+            "usernameUnclaimed": "9999999999999999"
+        },
+        "Lofter": {
+            "tags": [
+                "blog",
+                "cn"
+            ],
+            "checkType": "status_code",
+            "urlMain": "https://www.lofter.com",
+            "url": "http://{username}.lofter.com/",
+            "usernameClaimed": "imike",
+            "usernameUnclaimed": "noonewouldeverusethis7"
+        },
+        "RED": {
+            "tags": [
+                "cn",
+                "photo",
+                "social"
+            ],
+            "regexCheck": "^[0-9a-f]{24}$",
+            "checkType": "status_code",
+            "urlMain": "https://www.rednote.com",
+            "url": "https://www.rednote.com/user/profile/{username}",
+            "usernameClaimed": "5bfb3280e7444b0001520768",
+            "usernameUnclaimed": "aabbccddeeff001122334455"
+        },
+        "Pantip": {
+            "tags": [
+                "forum",
+                "th"
+            ],
+            "regexCheck": "^\\d+$",
+            "checkType": "message",
+            "presenseStrs": [
+                "สมาชิกหมายเลข"
+            ],
+            "urlMain": "https://pantip.com",
+            "url": "https://pantip.com/profile/{username}",
+            "usernameClaimed": "5410845",
+            "usernameUnclaimed": "9999999"
+        },
+        "Wongnai": {
+            "tags": [
+                "review",
+                "th"
+            ],
+            "checkType": "status_code",
+            "urlMain": "https://www.wongnai.com",
+            "url": "https://www.wongnai.com/users/{username}",
+            "usernameClaimed": "cocoaandlatte",
+            "usernameUnclaimed": "noonewouldeverusethis7"
+        },
+        "Dek-D": {
+            "tags": [
+                "th",
+                "writing"
+            ],
+            "checkType": "message",
+            "presenseStrs": [
+                "โพรไฟล์ของ"
+            ],
+            "urlMain": "https://www.dek-d.com",
+            "url": "https://novel.dek-d.com/{username}/profile/writer/",
+            "usernameClaimed": "panadajanjaroen",
+            "usernameUnclaimed": "noonewouldeverusethis7"
+        },
+        "Cari.com.my": {
+            "tags": [
+                "forum",
+                "my"
+            ],
+            "checkType": "message",
+            "presenseStrs": [
+                "Profile CariDotMy"
+            ],
+            "urlMain": "https://cari.com.my",
+            "url": "https://mforum.cari.com.my/home.php?mod=space&username={username}&do=profile",
+            "usernameClaimed": "admin1",
+            "usernameUnclaimed": "noonewouldeverusethis7"
+        },
+        "Kumu": {
+            "tags": [
+                "ph",
+                "streaming"
+            ],
+            "checkType": "message",
+            "presenseStrs": [
+                "cdn.kumuapi.com/avatar/"
+            ],
+            "urlMain": "https://kumu.live",
+            "url": "https://kumu.live/{username}",
+            "usernameClaimed": "biniblooms_ph",
+            "usernameUnclaimed": "noonewouldeverusethis7"
+        },
+        "readAwrite": {
+            "tags": [
+                "blog",
+                "th"
+            ],
+            "checkType": "response_url",
+            "errorUrl": "https://www.readawrite.com/",
+            "urlMain": "https://www.readawrite.com",
+            "url": "http://{username}.readawrite.com/",
+            "usernameClaimed": "jiwinil",
+            "usernameUnclaimed": "noonewouldeverusethis7"
+        },
         "Piekielni": {
             "checkType": "message",
             "absenceStrs": [
